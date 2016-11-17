@@ -1,1 +1,1 @@
-This repository is for submission of KUCP Lecture
+This repository is for submission of KUCP Lecture (sclab)
